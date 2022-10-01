@@ -25,7 +25,9 @@ Discussion google doc https://docs.google.com/document/d/1W_Z-wBSKQmiwr_z6xJJLb4
 
 
 ## BERT
-
+- [Financial Sentiment Analysis on Stock Market Headlines With FinBERT & Hugging Face](https://wandb.ai/ivangoncharov/FinBERT_Sentiment_Analysis_Project/reports/Financial-Sentiment-Analysis-on-Stock-Market-Headlines-With-FinBERT-Hugging-Face--VmlldzoxMDQ4NjM0)
+- [FinBERT: A Pretrained Language Model for Financial Communications](https://ui.adsabs.harvard.edu/abs/2020arXiv200608097Y/abstract)
+- Github: [FinBERT: Financial Sentiment Analysis with BERT](https://github.com/ProsusAI/finBERT)
 ## LSTM
 
 # Literature Review Paper
