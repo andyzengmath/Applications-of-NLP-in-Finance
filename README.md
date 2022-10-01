@@ -29,6 +29,8 @@ Discussion google doc https://docs.google.com/document/d/1W_Z-wBSKQmiwr_z6xJJLb4
 - [FinBERT: A Pretrained Language Model for Financial Communications](https://ui.adsabs.harvard.edu/abs/2020arXiv200608097Y/abstract)
 - Github: [FinBERT: Financial Sentiment Analysis with BERT](https://github.com/ProsusAI/finBERT)
 ## LSTM
+- [LSTM-Based Quantitative Trading Using Dynamic K-Top and Kelly Criterion](https://ieeexplore.ieee.org/document/9207264)
+- [Attention-based CNN-LSTM and XGBoost hybrid model for stock prediction](https://arxiv.org/abs/2204.02623)
 
 # Literature Review Paper
 - 
