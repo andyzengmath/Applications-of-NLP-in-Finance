@@ -34,6 +34,7 @@ Discussion google doc https://docs.google.com/document/d/1W_Z-wBSKQmiwr_z6xJJLb4
 - [High-performance stock index trading: making effective use of a deep LSTM neural network](https://arxiv.org/abs/1902.03125)
 - [BERT-based Financial Sentiment Index and LSTM-based Stock Return Predictability](https://arxiv.org/abs/1906.09024)
 - [Long Short-Term Memory Neural Network for Financial Time Series](https://arxiv.org/pdf/2201.08218.pdf)
+- [Profitability Analysis in Stock Investment Using an LSTM-Based Deep Learning Model](https://arxiv.org/abs/2104.06259)
 
 # Literature Review Paper
 - 
