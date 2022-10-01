@@ -32,6 +32,6 @@ Discussion google doc https://docs.google.com/document/d/1W_Z-wBSKQmiwr_z6xJJLb4
 - [LSTM-Based Quantitative Trading Using Dynamic K-Top and Kelly Criterion](https://ieeexplore.ieee.org/document/9207264)
 - [Attention-based CNN-LSTM and XGBoost hybrid model for stock prediction](https://arxiv.org/abs/2204.02623)
 - [High-performance stock index trading: making effective use of a deep LSTM neural network](https://arxiv.org/abs/1902.03125)
-
+- [BERT-based Financial Sentiment Index and LSTM-based Stock Return Predictability](https://arxiv.org/abs/1906.09024)
 # Literature Review Paper
 - 
